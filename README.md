@@ -48,7 +48,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-- Author: [Your Name](https://github.com/yourusername)
-- Email: your@email.com
+- Author: [Your Name](https://github.com/shabeer-dev)
+- Email: support@vectorcrop.com
 
 Feel free to reach out with any questions or feedback!
