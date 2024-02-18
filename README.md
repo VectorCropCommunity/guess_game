@@ -1,6 +1,11 @@
 # Guess The Number
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/VectorCropCommunity/guess_game)
+![GitHub last commit](https://img.shields.io/github/last-commit/VectorCropCommunity/guess_game)
+![GitHub language count](https://img.shields.io/github/languages/count/VectorCropCommunity/guess_game)
+
+
 
 ## Description
 
