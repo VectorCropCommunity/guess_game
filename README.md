@@ -1,4 +1,4 @@
-# Guess The Number
+# Flutter - Guess The Number
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/VectorCropCommunity/guess_game)
