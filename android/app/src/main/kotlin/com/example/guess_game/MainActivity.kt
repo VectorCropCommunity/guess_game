@@ -1,4 +1,4 @@
-package com.example.guess_game
+package com.vectorcrop.guess_game
 
 import io.flutter.embedding.android.FlutterActivity
 
