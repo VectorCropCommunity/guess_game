@@ -53,7 +53,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-- Author: [Muhammed Shabeer OP](https://github.com/shabeer-dev)
+- Author: [Muhammed Shabeer OP](https://github.com/shabeer-wms)
 - Email: support@vectorcrop.com
 
 Feel free to reach out with any questions or feedback!
