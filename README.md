@@ -57,3 +57,8 @@ This project is licensed under the [MIT License](LICENSE).
 - Email: support@vectorcrop.com
 
 Feel free to reach out with any questions or feedback!
+
+
+## Download by paying 😂
+
+https://play.google.com/store/apps/details?id=com.vectorcrop.guess_game
